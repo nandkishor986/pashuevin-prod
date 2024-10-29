@@ -1,6 +1,6 @@
 aws_region     = "us-east-1"
-aws_access_key = "AKIA4IM3HLXMRLOF6T5B"
-aws_secret_key = "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"
+aws_access_key = ""
+aws_secret_key = ""
 
 
 vpcs = {
